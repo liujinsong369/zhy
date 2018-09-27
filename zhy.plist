@@ -11,7 +11,7 @@
                     <key>kind</key>
                     <string>software-package</string>
                     <key>url</key>
-                    <string>http://192.168.2.177/zhy.ipa</string>
+                    <string>https://raw.githubusercontent.com/liujinsong369/zhy1/master/zhy.ipa</string>
                 </dict>
             </array>
             <key>metadata</key>
